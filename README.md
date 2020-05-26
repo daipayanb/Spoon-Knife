@@ -9,11 +9,11 @@
 *This* **seems** ***to*** ****work**** really well
 [link to Google!](http://google.com)
 
-* Item 1
-* Item 2
-    * Item 3
-    * Item 4
-        * Item 5
+1 Item 1
+1 Item 2
+    1 Item 3
+    1 Item 4
+        1 Item 5
         
 
 This repository is meant to provide an example for *forking* a repository on GitHub.
