@@ -20,6 +20,11 @@ function fancyAlert(arg) {
 I think you should use an
 `<import pty;>` element here instead
 
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
+
 [link to Google!](http://google.com)
 
 1. Item 1
