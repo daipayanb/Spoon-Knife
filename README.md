@@ -7,6 +7,14 @@
 
 > The Offsec Guys say Try HARDER!
 
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
+
 *This* **seems** ***to*** ****work**** really well
 
 I think you should use an
